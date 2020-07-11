@@ -54,7 +54,7 @@ Requirements:
 
 -Pandas Documentation
 
--Udacity Python Course
+-Udacity Python Course 2020
 
 -Anaconda - Jupyter Notebook
 
