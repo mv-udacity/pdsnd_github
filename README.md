@@ -2,7 +2,7 @@
 July 10, 2020
 
 ### Project Title
-EXPLORE US BIKESHARE DATA
+Explore US Bikeshare Data 
 
 ### Description
 The program takes user input for the city, such as Chicago, month for which the user wants to view data, and day for which the user wants to view the data.
